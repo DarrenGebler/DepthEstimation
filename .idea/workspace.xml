@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1be8c4f4-a9f2-4dcf-8fcb-7fbf1d566a7b" name="Default Changelist" comment="" />
+    <list default="true" id="1be8c4f4-a9f2-4dcf-8fcb-7fbf1d566a7b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StereoDepth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YmyfTTF1WZltGSGXEWh7P0Pj7m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -31,7 +40,12 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.MonoDepth">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\darre\Documents\Python Projects\DepthEstimation\input" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.StereoDepth">
     <configuration name="MonoDepth" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DepthEstimation" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -46,6 +60,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="C:\Users\darre\Documents\Python Projects\DepthEstimation\MonoDepth.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="StereoDepth" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DepthEstimation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StereoDepth.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,6 +114,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.StereoDepth" />
         <item itemvalue="Python.MonoDepth" />
         <item itemvalue="Python.run" />
       </list>
@@ -98,7 +135,7 @@
       <workItem from="1583656304709" duration="350000" />
       <workItem from="1583656664805" duration="5917000" />
       <workItem from="1583703881658" duration="1672000" />
-      <workItem from="1583713897350" duration="884000" />
+      <workItem from="1583713897350" duration="3960000" />
     </task>
     <servers />
   </component>
@@ -114,38 +151,38 @@
       <screen x="3000" y="0" width="3440" height="1400" />
     </state>
     <state x="3639" y="460" key="FileChooserDialogImpl/0.0.1500.960/3000.0.3440.1400@3000.0.3440.1400" timestamp="1583562661518" />
-    <state width="1672" height="491" key="GridCell.Tab.0.bottom" timestamp="1583701167630">
+    <state width="1672" height="400" key="GridCell.Tab.0.bottom" timestamp="1583717952499">
       <screen x="3000" y="0" width="3440" height="1400" />
     </state>
-    <state width="1672" height="491" key="GridCell.Tab.0.bottom/0.0.1500.960/3000.0.3440.1400@3000.0.3440.1400" timestamp="1583701167630" />
-    <state width="1672" height="491" key="GridCell.Tab.0.center" timestamp="1583701167629">
+    <state width="1672" height="400" key="GridCell.Tab.0.bottom/0.0.1500.960/3000.0.3440.1400@3000.0.3440.1400" timestamp="1583717952499" />
+    <state width="1672" height="400" key="GridCell.Tab.0.center" timestamp="1583717952499">
       <screen x="3000" y="0" width="3440" height="1400" />
     </state>
-    <state width="1672" height="491" key="GridCell.Tab.0.center/0.0.1500.960/3000.0.3440.1400@3000.0.3440.1400" timestamp="1583701167629" />
-    <state width="1672" height="491" key="GridCell.Tab.0.left" timestamp="1583701167629">
+    <state width="1672" height="400" key="GridCell.Tab.0.center/0.0.1500.960/3000.0.3440.1400@3000.0.3440.1400" timestamp="1583717952499" />
+    <state width="1672" height="400" key="GridCell.Tab.0.left" timestamp="1583717952499">
       <screen x="3000" y="0" width="3440" height="1400" />
     </state>
-    <state width="1672" height="491" key="GridCell.Tab.0.left/0.0.1500.960/3000.0.3440.1400@3000.0.3440.1400" timestamp="1583701167629" />
-    <state width="1672" height="491" key="GridCell.Tab.0.right" timestamp="1583701167630">
+    <state width="1672" height="400" key="GridCell.Tab.0.left/0.0.1500.960/3000.0.3440.1400@3000.0.3440.1400" timestamp="1583717952499" />
+    <state width="1672" height="400" key="GridCell.Tab.0.right" timestamp="1583717952499">
       <screen x="3000" y="0" width="3440" height="1400" />
     </state>
-    <state width="1672" height="491" key="GridCell.Tab.0.right/0.0.1500.960/3000.0.3440.1400@3000.0.3440.1400" timestamp="1583701167630" />
-    <state width="1672" height="491" key="GridCell.Tab.1.bottom" timestamp="1583701167631">
+    <state width="1672" height="400" key="GridCell.Tab.0.right/0.0.1500.960/3000.0.3440.1400@3000.0.3440.1400" timestamp="1583717952499" />
+    <state width="1672" height="491" key="GridCell.Tab.1.bottom" timestamp="1583717440601">
       <screen x="3000" y="0" width="3440" height="1400" />
     </state>
-    <state width="1672" height="491" key="GridCell.Tab.1.bottom/0.0.1500.960/3000.0.3440.1400@3000.0.3440.1400" timestamp="1583701167631" />
-    <state width="1672" height="491" key="GridCell.Tab.1.center" timestamp="1583701167630">
+    <state width="1672" height="491" key="GridCell.Tab.1.bottom/0.0.1500.960/3000.0.3440.1400@3000.0.3440.1400" timestamp="1583717440601" />
+    <state width="1672" height="491" key="GridCell.Tab.1.center" timestamp="1583717440601">
       <screen x="3000" y="0" width="3440" height="1400" />
     </state>
-    <state width="1672" height="491" key="GridCell.Tab.1.center/0.0.1500.960/3000.0.3440.1400@3000.0.3440.1400" timestamp="1583701167630" />
-    <state width="1672" height="491" key="GridCell.Tab.1.left" timestamp="1583701167630">
+    <state width="1672" height="491" key="GridCell.Tab.1.center/0.0.1500.960/3000.0.3440.1400@3000.0.3440.1400" timestamp="1583717440601" />
+    <state width="1672" height="491" key="GridCell.Tab.1.left" timestamp="1583717440600">
       <screen x="3000" y="0" width="3440" height="1400" />
     </state>
-    <state width="1672" height="491" key="GridCell.Tab.1.left/0.0.1500.960/3000.0.3440.1400@3000.0.3440.1400" timestamp="1583701167630" />
-    <state width="1672" height="491" key="GridCell.Tab.1.right" timestamp="1583701167630">
+    <state width="1672" height="491" key="GridCell.Tab.1.left/0.0.1500.960/3000.0.3440.1400@3000.0.3440.1400" timestamp="1583717440600" />
+    <state width="1672" height="491" key="GridCell.Tab.1.right" timestamp="1583717440601">
       <screen x="3000" y="0" width="3440" height="1400" />
     </state>
-    <state width="1672" height="491" key="GridCell.Tab.1.right/0.0.1500.960/3000.0.3440.1400@3000.0.3440.1400" timestamp="1583701167630" />
+    <state width="1672" height="491" key="GridCell.Tab.1.right/0.0.1500.960/3000.0.3440.1400@3000.0.3440.1400" timestamp="1583717440601" />
     <state x="3363" y="348" key="SettingsEditor" timestamp="1583562672950">
       <screen x="3000" y="0" width="3440" height="1400" />
     </state>
@@ -169,6 +206,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DepthEstimation$StereoDepth.coverage" NAME="StereoDepth Coverage Results" MODIFIED="1583717952491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DepthEstimation$Pix2Pix.coverage" NAME="Pix2Pix Coverage Results" MODIFIED="1583661949425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DepthEstimation$run.coverage" NAME="run Coverage Results" MODIFIED="1583658688225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
