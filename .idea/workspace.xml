@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1be8c4f4-a9f2-4dcf-8fcb-7fbf1d566a7b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YmyfTTF1WZltGSGXEWh7P0Pj7m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.MonoDepth">
+    <configuration name="MonoDepth" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DepthEstimation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\darre\Documents\Python Projects\DepthEstimation\MonoDepth.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DepthEstimation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.MonoDepth" />
+        <item itemvalue="Python.run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1be8c4f4-a9f2-4dcf-8fcb-7fbf1d566a7b" name="Default Changelist" comment="" />
+      <created>1583562167290</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583562167290</updated>
+      <workItem from="1583562188981" duration="3390000" />
+      <workItem from="1583575376082" duration="1798000" />
+      <workItem from="1583656304709" duration="350000" />
+      <workItem from="1583656664805" duration="5917000" />
+      <workItem from="1583703881658" duration="1672000" />
+      <workItem from="1583713897350" duration="884000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3546" y="431" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583656650457">
+      <screen x="3000" y="0" width="3440" height="1400" />
+    </state>
+    <state x="3546" y="431" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1500.960/3000.0.3440.1400@3000.0.3440.1400" timestamp="1583656650457" />
+    <state x="3639" y="460" key="FileChooserDialogImpl" timestamp="1583562661518">
+      <screen x="3000" y="0" width="3440" height="1400" />
+    </state>
+    <state x="3639" y="460" key="FileChooserDialogImpl/0.0.1500.960/3000.0.3440.1400@3000.0.3440.1400" timestamp="1583562661518" />
+    <state width="1672" height="491" key="GridCell.Tab.0.bottom" timestamp="1583701167630">
+      <screen x="3000" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1672" height="491" key="GridCell.Tab.0.bottom/0.0.1500.960/3000.0.3440.1400@3000.0.3440.1400" timestamp="1583701167630" />
+    <state width="1672" height="491" key="GridCell.Tab.0.center" timestamp="1583701167629">
+      <screen x="3000" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1672" height="491" key="GridCell.Tab.0.center/0.0.1500.960/3000.0.3440.1400@3000.0.3440.1400" timestamp="1583701167629" />
+    <state width="1672" height="491" key="GridCell.Tab.0.left" timestamp="1583701167629">
+      <screen x="3000" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1672" height="491" key="GridCell.Tab.0.left/0.0.1500.960/3000.0.3440.1400@3000.0.3440.1400" timestamp="1583701167629" />
+    <state width="1672" height="491" key="GridCell.Tab.0.right" timestamp="1583701167630">
+      <screen x="3000" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1672" height="491" key="GridCell.Tab.0.right/0.0.1500.960/3000.0.3440.1400@3000.0.3440.1400" timestamp="1583701167630" />
+    <state width="1672" height="491" key="GridCell.Tab.1.bottom" timestamp="1583701167631">
+      <screen x="3000" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1672" height="491" key="GridCell.Tab.1.bottom/0.0.1500.960/3000.0.3440.1400@3000.0.3440.1400" timestamp="1583701167631" />
+    <state width="1672" height="491" key="GridCell.Tab.1.center" timestamp="1583701167630">
+      <screen x="3000" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1672" height="491" key="GridCell.Tab.1.center/0.0.1500.960/3000.0.3440.1400@3000.0.3440.1400" timestamp="1583701167630" />
+    <state width="1672" height="491" key="GridCell.Tab.1.left" timestamp="1583701167630">
+      <screen x="3000" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1672" height="491" key="GridCell.Tab.1.left/0.0.1500.960/3000.0.3440.1400@3000.0.3440.1400" timestamp="1583701167630" />
+    <state width="1672" height="491" key="GridCell.Tab.1.right" timestamp="1583701167630">
+      <screen x="3000" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1672" height="491" key="GridCell.Tab.1.right/0.0.1500.960/3000.0.3440.1400@3000.0.3440.1400" timestamp="1583701167630" />
+    <state x="3363" y="348" key="SettingsEditor" timestamp="1583562672950">
+      <screen x="3000" y="0" width="3440" height="1400" />
+    </state>
+    <state x="3363" y="348" key="SettingsEditor/0.0.1500.960/3000.0.3440.1400@3000.0.3440.1400" timestamp="1583562672950" />
+    <state x="250" y="361" key="com.intellij.ide.util.TipDialog" timestamp="1583713915774">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="250" y="361" key="com.intellij.ide.util.TipDialog/0.0.1500.960/3000.0.3440.1400@0.0.1500.960" timestamp="1583713915774" />
+    <state x="3574" y="527" key="com.intellij.ide.util.TipDialog/0.0.1500.960/3000.0.3440.1400@3000.0.3440.1400" timestamp="1583656664608" />
+    <state x="250" y="361" key="com.intellij.ide.util.TipDialog/0.0.1500.960@0.0.1500.960" timestamp="1583703889321" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DepthEstimation$Pix2Pix.coverage" NAME="Pix2Pix Coverage Results" MODIFIED="1583661949425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DepthEstimation$run.coverage" NAME="run Coverage Results" MODIFIED="1583658688225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

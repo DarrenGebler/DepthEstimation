@@ -1,0 +1,9 @@
+tensorflow-gpu
+tensorflow
+numpy
+matplotlib
+opencv
+glob
+imageio
+os
+warnings
